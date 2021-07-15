@@ -61,7 +61,7 @@
       "description": "Temp File Storage",
       "value": ".\userbot\cache"
       "required": true
-    }
+    },
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
       "value": "ENABLE"
