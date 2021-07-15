@@ -59,8 +59,7 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Temp File Storage",
-      "value": ".\userbot\cache",
-      "required": true
+      "value": "./userbot/cache"
     },
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
