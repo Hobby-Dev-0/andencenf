@@ -59,7 +59,7 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Temp File Storage",
-      "value": ".\userbot\cache"
+      "value": ".\userbot\cache",
       "required": true
     },
     "PM_PERMIT": {
