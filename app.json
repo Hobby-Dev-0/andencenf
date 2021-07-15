@@ -57,6 +57,11 @@
       "description": "No.of buttons to display in help menu.",
       "value": "7"
     },
+    "TEMP_DOWNLOAD_DIRECTORY": {
+      "description": "Temp File Storage",
+      "value": ".\userbot\cache"
+      "required": true
+    }
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
       "value": "ENABLE"
