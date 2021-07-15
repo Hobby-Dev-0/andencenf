@@ -20,9 +20,9 @@
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Andencento",
+      "description": "Fill Any name it is working as ALIVE_NAME. Default Value is None",
       "value": "",
-      "required": false
+      "required": true
     },
     "ALIVE_MSG": {
       "description": "Your Custom Alive Message to show on Alive.",
