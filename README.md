@@ -6,4 +6,4 @@
 ## Main source is here [Main Source](https://github.com/Andencento/Andencento), fork and give star to that repo.
 
 # Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashbohttps://heroku.com/deploy?template=https://github.com/InternetAmethyst/andencenf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/https://heroku.com/deploy?template=https://github.com/InternetAmethyst/andencenf)
