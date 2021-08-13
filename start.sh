@@ -1,5 +1,5 @@
 
-pip3 install --upgrade Extre
+pip3 install git+https://github.com/InternetAmethyst/db
 git clone https://github.com/InternetAmethyst/ExtremeProUserbot
 cd ExtremeProUserbot
 python3 -m Extre
